@@ -35,5 +35,6 @@ git clone https://github.com/4L1C3-R4BB1T/pi-brinsp.git
 - Importe o arquivo **brinsp_db.sql**
 
 Para acessar o projeto basta ir em **http://127.0.0.1/pi-brinsp/projeto-integrado**
+Para acessar a área administrativa vá em **http://127.0.0.1/pi-brinsp/projeto-integrado/adm-home**
 
 **obs:** se necessário, altere as variáveis **USER** e **PASS** em **Config.php**
