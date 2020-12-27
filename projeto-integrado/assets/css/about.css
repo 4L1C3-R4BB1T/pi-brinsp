@@ -1,0 +1,31 @@
+.marketing h2 {
+    font-weight: 400;
+    color: #5e5d5d;
+}
+
+.featurette-divider {
+    margin: 5rem 0;
+}
+
+.featurette .lead {
+    text-align: justify;
+}
+
+.featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -.05rem;
+    color: #5e5d5d;
+}
+
+@media (min-width: 40em) {
+    .featurette-heading {
+        font-size: 50px;
+    }
+}
+
+@media (min-width: 62em) {
+    .featurette-heading {
+        margin-top: 7rem;
+    }
+}

@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    padding-top: 4.1rem;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+p.comunity {
+    color: darkorange;
+    font-size: 50px;
+}
+
+p.topic-title {
+    color: darkorange;
+    font-size: 35px;
+    font-weight: 500;
+}
+
+.imgerror {
+    width: 100%;
+}
+
+div h1.perfil-name {
+    font-size: 50px;
+}
+
+a.user-link {
+    color: orange;
+    font-weight: 500;
+}
+
+a.user-link:hover {
+    color: #f1690e;
+}
+
+.user-image {
+    height: 50px;
+    border-radius: 50%;
+}
+
+span.date-coment {
+    font-size: 14px; 
+    color:rgb(136, 136, 136);
+}

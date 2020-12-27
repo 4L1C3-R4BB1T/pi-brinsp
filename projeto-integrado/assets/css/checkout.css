@@ -1,0 +1,28 @@
+.bill-to p {
+    color: #696763;
+    font-size: 23px;
+    font-weight: 500
+}
+
+.form {
+    float: left;
+    width: 47%
+}
+
+.form select,
+.form div input {
+    background: #F0F0E9;
+    border: 0 none;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 100%;
+    font-weight: 300
+}
+
+.form select {
+    width: 60%;
+}
+
+.imgcheck {
+    height: 300px;
+}

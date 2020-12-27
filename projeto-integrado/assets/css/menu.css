@@ -1,0 +1,81 @@
+.navbar {
+    background-color: #ffa70a;
+}
+
+.navbar .navbar-brand img {
+    height: 40px; 
+}
+
+.navbar .nav-item {
+    color: #353535;
+}
+
+.navbar .nav-item:hover {
+    color: #fff;
+}
+
+.form-control {
+    border-radius: 5px;
+}
+
+.form-control:hover {
+    border-color: #f1690e;
+}
+
+.search {
+    background: transparent;
+    border: none;
+    color: #949494;
+    cursor: pointer;
+    width: 11%;
+}
+
+.cart {
+    margin-top: 2px;
+    margin-bottom: auto;
+    background-image: url('../img/menu/car.png');
+}
+
+.cart:hover {
+    background-image: url('../img/menu/car_w.png');
+}
+
+.option {
+    padding: 5px;
+    font-size: 16px;
+    color: #353535;
+}
+
+.option:hover {
+    color: #fff;
+}
+
+.option .cad {
+    height: 16px;
+}
+
+.option .log {
+    height: 19px;
+}
+
+.user {
+    font-size: 17px;
+}
+
+.dropdown {
+    display: inline-block;
+    list-style: none;
+}
+
+.dropdown:hover {
+    color: #fff;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    position: absolute;
+    transform: translate3d(0px, 25px, 0px);
+    top: 0px;
+    left: 0px;
+    will-change: transform;
+}

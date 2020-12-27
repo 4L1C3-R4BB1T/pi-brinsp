@@ -1,0 +1,18 @@
+{
+  "description": "Projeto Integrador",
+  "authors": [
+    {
+      "name": "Livia",
+      "email": "example@email.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Site\\": "app/site",
+      "Config\\": "config",
+      "App\\": "app"
+    }
+  }
+}
