@@ -29,12 +29,12 @@ git clone https://github.com/4L1C3-R4BB1T/pi-brinsp.git
 ```
 
 - Execute o WAMP / MAMP / XAMPP 
-- Vá em **http://127.0.0.1/phpmyadmin/**
+- Vá em **127.0.0.1/phpmyadmin**
 - Entre com seu usuário e senha
 - Crie uma database com o nome **brinsp_db** e **utf8_general_ci**
 - Importe o arquivo **brinsp_db.sql**
 
-Para acessar o **projeto** basta ir em **http://127.0.0.1/pi-brinsp/projeto-integrado** <br>
-Para acessar a **área administrativa** vá em **http://127.0.0.1/pi-brinsp/projeto-integrado/adm-home**
+Para acessar o **projeto** basta ir em **127.0.0.1/pi-brinsp/projeto-integrado** <br>
+Para acessar a **área administrativa** vá em **127.0.0.1/pi-brinsp/projeto-integrado/adm-home**
 
 **obs:** se necessário, altere as variáveis **USER** e **PASS** em **Config.php**
