@@ -1,28 +1,26 @@
 # brinsp 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/4L1C3-R4BB1T/pi-brinsp/blob/master/LICENSE) 
 
-## Sobre o projeto
-<div class=text-justify>
-    O **brinsp** é um site voltado para artistas brasileiros, no qual se pode vender, comprar e divulgar obras artísticas, como desenhos, pinturas, itens feitos à mão, entre outros. Também podem ser divulgados eventos artísticos que acontecem no Brasil.
+# Sobre o projeto
+O **brinsp** é um site voltado para artistas brasileiros, no qual se pode vender, comprar e divulgar obras artísticas, como desenhos, pinturas, itens feitos à mão, entre outros. Também podem ser divulgados eventos artísticos que acontecem no Brasil.
 
-    O objetivo é que todos os artistas tenham sua chance de “brilhar”, promovendo a todas as pessoas maior acesso a conteúdos artísticos e mais visibilidade aos artistas brasileiros, sejam eles iniciantes ou não. Não se consegue muita visibilidade nas redes sociais ou plataformas existentes, então essa seria uma boa maneira de mostrar a todos que temos sim artistas incríveis bem aqui. Essa também seria uma forma de ajudar os iniciantes a não desistirem logo no começo, visto que o caminho é bem árduo. Além disso, também há o intuito de fazer as pessoas se interessarem mais por arte. 
+O objetivo é que todos os artistas tenham sua chance de “brilhar”, promovendo a todas as pessoas maior acesso a conteúdos artísticos e mais visibilidade aos artistas brasileiros, sejam eles iniciantes ou não. Não se consegue muita visibilidade nas redes sociais ou plataformas existentes, então essa seria uma boa maneira de mostrar a todos que temos sim artistas incríveis bem aqui. Essa também seria uma forma de ajudar os iniciantes a não desistirem logo no começo, visto que o caminho é bem árduo. Além disso, também há o intuito de fazer as pessoas se interessarem mais por arte. 
 
-    Projeto Integrador de conclusão do curso Técnico em Informática do Instituto Federal do Espírito Santo - *campus* Cachoeiro de Itapemirim. 
-</div>
+Projeto Integrador de conclusão do curso Técnico em Informática do Instituto Federal do Espírito Santo - *campus* Cachoeiro de Itapemirim. 
 
 ## Layout 
 ![Web 1](https://github.com/4L1C3-R4BB1T/pi-brinsp/raw/master/assets/imghome.png "Imagem Início")
 
 ![Web 2](https://github.com/4L1C3-R4BB1T/pi-brinsp/raw/master/assets/imgshop.png "Imagem Loja")
 
-## Tecnologias Utilizadas
+# Tecnologias Utilizadas
 - HTML
 - CSS
 - Bootstrap
 - JavaScript 
 - PHP
 
-## Como executar o projeto
+# Como executar o projeto
 Necessário ter o WAMP / MAMP / XAMPP 
 
 ```bash
