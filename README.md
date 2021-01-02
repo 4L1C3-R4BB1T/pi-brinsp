@@ -9,9 +9,9 @@ O objetivo é que todos os artistas tenham sua chance de “brilhar”, promoven
 Projeto Integrador de conclusão do curso Técnico em Informática do Instituto Federal do Espírito Santo - *campus* Cachoeiro de Itapemirim. 
 
 ## Layout 
-![Web 1](https://github.com/4L1C3-R4BB1T/pi-brinsp/raw/master/assets/imghome.png "Imagem Início")
+![Web 1](https://github.com/4L1C3-R4BB1T/pi-brinsp/raw/master/_assets/imghome.png "Imagem Início")
 
-![Web 2](https://github.com/4L1C3-R4BB1T/pi-brinsp/raw/master/assets/imgshop.png "Imagem Loja")
+![Web 2](https://github.com/4L1C3-R4BB1T/pi-brinsp/raw/master/_assets/imgshop.png "Imagem Loja")
 
 # Tecnologias Utilizadas
 - HTML
