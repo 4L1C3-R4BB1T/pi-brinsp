@@ -13,7 +13,7 @@
 			<img src="https://img.icons8.com/ios/50/000000/discord-logo-filled.png">
 		</a>
 	</div>
-	<p>&copy;2019 brinsp. Todos os direitos reservados.</p>
+	<p>&copy;<?= getDate()['year'] ?> brinsp. Todos os direitos reservados.</p>
 </footer>
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
