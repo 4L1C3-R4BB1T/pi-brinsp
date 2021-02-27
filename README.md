@@ -1,4 +1,7 @@
-# brinsp 
+<p align="center">
+  <img src="https://github.com/4L1C3-R4BB1T/pi-brinsp/raw/main/_assets/logo.png" width="250px"/>   
+</p>
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/4L1C3-R4BB1T/pi-brinsp/blob/master/LICENSE) 
 
 # Sobre o projeto
@@ -9,9 +12,9 @@ O objetivo é que todos os artistas tenham sua chance de “brilhar”, promoven
 Projeto Integrador de conclusão do curso Técnico em Informática do Instituto Federal do Espírito Santo - *campus* Cachoeiro de Itapemirim. 
 
 ## Layout 
-![Web 1](https://github.com/4L1C3-R4BB1T/pi-brinsp/raw/master/_assets/imghome.png "Imagem Início")
+![Web 1](https://github.com/4L1C3-R4BB1T/pi-brinsp/raw/main/_assets/imghome.png "Imagem Início")
 
-![Web 2](https://github.com/4L1C3-R4BB1T/pi-brinsp/raw/master/_assets/imgshop.png "Imagem Loja")
+![Web 2](https://github.com/4L1C3-R4BB1T/pi-brinsp/raw/main/_assets/imgshop.png "Imagem Loja")
 
 # Tecnologias Utilizadas
 - HTML
