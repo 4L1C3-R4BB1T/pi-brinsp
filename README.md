@@ -2,7 +2,7 @@
   <img src="https://github.com/4L1C3-R4BB1T/pi-brinsp/raw/main/_assets/logo.png" width="250px"/>   
 </p>
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/4L1C3-R4BB1T/pi-brinsp/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/4L1C3-R4BB1T/pi-brinsp/blob/main/LICENSE) 
 
 # Sobre o projeto
 O **brinsp** é um site voltado para artistas brasileiros, no qual se pode vender, comprar e divulgar obras artísticas, como desenhos, pinturas, itens feitos à mão, entre outros. Também podem ser divulgados eventos artísticos que acontecem no Brasil.
