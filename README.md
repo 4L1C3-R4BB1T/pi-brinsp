@@ -27,7 +27,7 @@ Projeto Integrador de conclusão do curso Técnico em Informática do Instituto 
 Necessário ter o WAMP / MAMP / XAMPP 
 
 ```bash
-# clonar o repositório
+# clonar o repositório dentro da pasta "www" do WAMP
 git clone https://github.com/4L1C3-R4BB1T/pi-brinsp.git
 ```
 
@@ -40,4 +40,4 @@ git clone https://github.com/4L1C3-R4BB1T/pi-brinsp.git
 Para acessar o **projeto** basta ir em **127.0.0.1/pi-brinsp/projeto-integrado** <br>
 Para acessar a **área administrativa** vá em **127.0.0.1/pi-brinsp/projeto-integrado/adm-home**
 
-**obs:** se necessário, altere as variáveis **USER** e **PASS** em **Config.php**
+**obs:** se necessário, altere as variáveis **USER** e **PASS** em **Config.php** para o seu usuário e senha de acesso
